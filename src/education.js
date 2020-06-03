@@ -1,7 +1,7 @@
 Vue.component('educations', {
     props: ['educations'],
     template: `
-        <div id="educations">
+        <div id="Educations">
             <p class="sectiontitle">educations</p>
             <div v-for="education in educations">
                 <div class="education">
