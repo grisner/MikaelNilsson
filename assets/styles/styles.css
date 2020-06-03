@@ -1,0 +1,97 @@
+
+#name {
+    padding-top: 1ex;
+    font-family: "Liberation Sans";
+}
+
+@media print {
+
+    @page {
+        size: A4;
+        margin: 7mm 17mm 17mm 17mm;
+    }
+
+}
+
+@media screen {
+    body {
+        margin: 10ex;
+    }
+}
+
+#logo {
+    float: inline-end;
+    width: 10%;
+}
+
+#pageHeader {
+    padding-bottom: 20ex;
+}
+
+#fieldsOfExpertise {
+    padding-top: 2ex;
+}
+
+
+table {
+    padding-top: 1rem;
+}
+
+.text {
+    font-family: Cambria, Cochin, Georgia, serif;
+    /* font-size: 12px; */
+
+}
+
+.section {
+    page-break-after: always;
+}
+
+.sectiontitle {
+    font-weight: bold;
+}
+
+
+.key {
+    font-weight: bolder;
+}
+
+.leftie {
+    float: left;
+    width: 40%;
+}
+
+.rightie {
+    float: right;
+    width: 59%;
+}
+
+.org {
+    font-weight: bold;
+}
+
+.assignment {
+
+    page-break-inside: avoid;
+    /* width: 40%; */
+    display: inline-block;
+}
+
+.assignTime {
+    color: lightslategrey;
+    font-style: italic;
+}
+
+.competencesUsed {
+    font-style: italic;
+}
+
+.assignTitle {
+    font-weight: bold;
+}
+
+.education {
+    display: inline-block;
+    width: 100%;
+}
+

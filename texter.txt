@@ -1,0 +1,61 @@
+﻿
+
+
+
+❖ Cloud development
+	
+
+
+
+❖ Service design
+
+Mikael has been closely collaborating with customers in designing usable services and good workflows for diverse processes, everything from tools for agreement management and signage to automated processes for VMWare server management. 
+
+
+
+❖ Usability
+
+Working closely together with customers Mikael tends to create functionality that best matches the needs. Regardless of need, he works hard to see the challenges from the customers viewpoint and find the best solutions.
+
+
+
+❖ Fullstack development
+	
+Mikael has experience in developing in all parts of systems, from frontend to database as well as integrations between systems. This combined with a long time following the growth of an internal IT department and working in all parts of that environment has created a flair for seeing a hollistic view of an environment.
+
+
+
+❖ Technical agnosticity
+	
+Mikael has developed a devotion to IT in general and software development in one form or another especially for 20 years. Wide in competence, he chooses the right tool for the job, rather than trying to accommodate all problems to any specific tool
+
+
+
+❖ Architecture
+	
+With experience in diverse parts of the IT eco system and developing software of various kinds
+
+
+
+
+
+
+
+
+ has put Mikael in a position to think naturally around the architecture of IT systems.
+
+
+System integrations
+
+REST
+GraphQL
+SAML
+ActiveDirectory
+Exchange
+Office 365
+Lync
+SCSM
+SQL
+SCCM
+ServiceNow 
+VMWare
