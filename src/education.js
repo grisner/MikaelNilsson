@@ -8,7 +8,7 @@ Vue.component('educations', {
                     <div class="leftie">
                         <p>{{education.time}}</p>
                     </div>
-                    <div class="rigthie">
+                    <div class="rightie">
                         <p>{{education.education}}</p>
                     </div>
                 </div>
