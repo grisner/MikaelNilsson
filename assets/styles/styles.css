@@ -14,8 +14,13 @@
 }
 
 @media screen {
+
     body {
         margin: 10ex;
+    }
+
+    .assignment {
+        width: 100%;
     }
 }
 
